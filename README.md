@@ -4,4 +4,4 @@ This repository contains an incomplete, wrong, and very mixed up tree of movies 
 
 Import this repository into a new repository of your own and clean the data (and add new data) according to the lab [instructions](https://cs.lmu.edu/~ray/classes/plab/lab/1/).
 
-Don’t forget to also update the README file in your new repository!
+Don’t forget to also update the README file in your new repository! Hi professor!
